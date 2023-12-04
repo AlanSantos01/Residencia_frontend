@@ -31,7 +31,7 @@ input {
 }
 
 button {
-    background-color: #2ced32;
+    background-color: blue;
     padding: 10px 20px;
     border: none;
     color: #fff;
@@ -41,7 +41,7 @@ button {
 }
 
 button:hover {
-    background-color: #1faa1f;
+    background-color: blue;
 }
 
 #containerDestinos {
